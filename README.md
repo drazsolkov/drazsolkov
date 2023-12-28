@@ -1,4 +1,8 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Denis Razsolkov =======================================================================================================================================  Software Engineer -----------------  Love coding! Currently working as a Scientific Assistant at the Institute of Medical Statistics of Uniklinik RWTH Aachen.  * 🌍  I'm based in Aachen, Germany * 🚀  I'm currently working on [randomizeR](http://cran.r-project.org/web/packages/randomizeR/index.html)
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Denis Razsolkov ======================================================================================================================================= 
+Software Engineer
+----------------- 
+
+Love coding! Currently working as a Scientific Assistant at the Institute of Medical Statistics of Uniklinik RWTH Aachen.  * 🌍  I'm based in Aachen, Germany * 🚀  I'm currently working on [randomizeR](http://cran.r-project.org/web/packages/randomizeR/index.html)
 
 ### Skills  
 
